@@ -1,0 +1,11 @@
+.game-board{
+  justify-content: center;
+}
+.board-row{
+  width: 150px;
+  height: 50px;
+}
+.square{
+  height: 50px;
+  width: 50px;
+}
